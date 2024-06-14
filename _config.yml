@@ -82,11 +82,11 @@ author:
   avatar           : "minhchuyentoancbn.jpg"
 #  bio              : "Ethnographer of computation and computational ethnographer. <br> <br> Assistant Professor at UC San Diego: <ul><li><a style='color: black;' href='http://communication.ucsd.edu'>Department of Communication</a></li> <li><a style='color: black;' href='http://hdsi.ucsd.edu'>Halıcıoğlu Data Science Institute</a></li></ul>"
 #  bio              : "Ethnographer of computation and computational ethnographer. <br> <br> Assistant Professor at UC San Diego, in <ul> <li><a style="color: black;" href="http://communication.ucsd.edu">Department of Communication</a></li> <li><a style="color: black;" href="http://hdsi.ucsd.edu">Halıcıoğlu Data Science Institute</a></li> <li><a style="color: black;" href="http://ipe.ucsd.edu">Institute for Practical Ethics</a></li> </ul>"
-  bio              : "Ph.D Student at the <a style='color: black;' href='https://stat.utexas.edu/'>Department of Statistics and Data Sciences</a>, <a style='color: black;' href='https://www.utexas.edu/'>University of Texas at Austin</a>"
-  location         : "Texas, USA"
+  bio              : "Research Resident at <a style='color: black;' href='https://research.vinai.io/'>VinAI Research</a>"
+  location         : "Hanoi, Vietnam"
   employer         : 
-  googlescholar    : "https://scholar.google.com/citations?user=_YYwzhQAAAAJ&hl=en"
-  email            : "huynm@utexas.edu"
+  googlescholar    : "https://scholar.google.com/citations?user=GOE6jNAAAAAJ&hl=en"
+  email            : "minh611002@gmail.com"
   uri              : 
   bitbucket        :
   codepen          :
@@ -94,17 +94,17 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           :
+  github           : "Minhchuyentoancbn"
   google_plus      :
   keybase          :
   instagram        : 
   lastfm           :
-  linkedin         : "huy-nguyen-081199"
+  linkedin         : "itgaming"
   pinterest        :
   soundcloud       :
   steam            :
   tumblr           :
-  twitter          : "@huynm99"
+  twitter          :
   vine             :
   weibo            :
   xing             :
@@ -253,7 +253,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Asia/Bangkok # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
