@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Huy Nguyen"
+title                    : "Minh Le"
 title_separator          : "-"
-name                     : &name "Huy Nguyen"
-description              : &description "Ph.D Student at the University of Texas at Austin"
-url                      : https://huynm99.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Minh Le"
+description              : &description "Research Resident at VinAI Research"
+url                      : https://minhchuyentoancbn.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "huynm99/huynm99.github.io"
+repository               : "minhchuyentoancbn/minhchuyentoancbn.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -78,8 +78,8 @@ analytics:
 
 # Site Author
 author:
-  name             : "Huy Nguyen"
-  avatar           : "huynm.jpeg"
+  name             : "Minh Le"
+  avatar           : "minhchuyentoancbn.jpg"
 #  bio              : "Ethnographer of computation and computational ethnographer. <br> <br> Assistant Professor at UC San Diego: <ul><li><a style='color: black;' href='http://communication.ucsd.edu'>Department of Communication</a></li> <li><a style='color: black;' href='http://hdsi.ucsd.edu'>Halıcıoğlu Data Science Institute</a></li></ul>"
 #  bio              : "Ethnographer of computation and computational ethnographer. <br> <br> Assistant Professor at UC San Diego, in <ul> <li><a style="color: black;" href="http://communication.ucsd.edu">Department of Communication</a></li> <li><a style="color: black;" href="http://hdsi.ucsd.edu">Halıcıoğlu Data Science Institute</a></li> <li><a style="color: black;" href="http://ipe.ucsd.edu">Institute for Practical Ethics</a></li> </ul>"
   bio              : "Ph.D Student at the <a style='color: black;' href='https://stat.utexas.edu/'>Department of Statistics and Data Sciences</a>, <a style='color: black;' href='https://www.utexas.edu/'>University of Texas at Austin</a>"
