@@ -14,22 +14,22 @@ redirect_from:
 
 ## Preprints
 
-**[P.5]** [Sigmoid Gating is More Sample Efficient than Softmax Gating in Mixture of Experts](https://arxiv.org/pdf/2405.13997.pdf). *Under review*. <br/>
+<!-- **[P.5]** [Sigmoid Gating is More Sample Efficient than Softmax Gating in Mixture of Experts](https://arxiv.org/pdf/2405.13997.pdf). *Under review*. <br/>
 <b>Huy Nguyen</b>, Nhat Ho, Alessandro Rinaldo
 
 **[P.4]** [Statistical Advantages of Perturbing Cosine Router in Sparse Mixture of Experts](https://arxiv.org/pdf/2405.14131.pdf). *Under review*. <br/>
-<b>Huy Nguyen</b>, Pedram Akbarian\*, Trang Pham\*, Trang Nguyen\*, Shujian Zhang, Nhat Ho
+<b>Huy Nguyen</b>, Pedram Akbarian\*, Trang Pham\*, Trang Nguyen\*, Shujian Zhang, Nhat Ho -->
 
-**[P.3]** [Mixture of Experts Meets Prompt-Based Continual Learning](https://arxiv.org/pdf/2405.14124.pdf). *Under review*. <br/>
-Minh Le, An Nguyen\*, <b>Huy Nguyen\*</b>, Trang Nguyen\*, Trang Pham\*, Linh Van Ngo, Nhat Ho
+**[P.1]** [Mixture of Experts Meets Prompt-Based Continual Learning](https://arxiv.org/pdf/2405.14124.pdf). *Under review*. <br/>
+<b>Minh Le</b>, An Nguyen\*, Huy Nguyen\*, Trang Nguyen\*, Trang Pham\*, Linh Van Ngo, Nhat Ho
 
-**[P.2]** [Fuse MoE: Mixture-of-Experts Transformers for Fleximodal Fusion](https://arxiv.org/pdf/2402.03226.pdf). *Under review*. <br/>
+<!-- **[P.2]** [Fuse MoE: Mixture-of-Experts Transformers for Fleximodal Fusion](https://arxiv.org/pdf/2402.03226.pdf). *Under review*. <br/>
 Xing Han, <b>Huy Nguyen\*</b>, Carl Harris\*, Nhat Ho, Suchi Saria
 
 **[P.1]** [CompeteSMoE - Effective Training of Sparse Mixture of Experts via Competition](https://arxiv.org/pdf/2402.02526.pdf). *Under review*. <br/>
-Quang Pham, Giang Do, <b>Huy Nguyen</b>, TrungTin Nguyen, Chenghao Liu, Mina Sartipi, Binh T. Nguyen, Savitha Ramasamy, Xiaoli Li, Steven Hoi, Nhat Ho
+Quang Pham, Giang Do, <b>Huy Nguyen</b>, TrungTin Nguyen, Chenghao Liu, Mina Sartipi, Binh T. Nguyen, Savitha Ramasamy, Xiaoli Li, Steven Hoi, Nhat Ho -->
 
-## Conference Publications
+<!-- ## Conference Publications
 
 **[C.13]** [On Least Squares Estimation in Softmax Gating Mixture of Experts](https://arxiv.org/pdf/2402.02952.pdf). *Proceedings of the ICML, 2024*. <br/>
 <b>Huy Nguyen</b>, Nhat Ho, Alessandro Rinaldo
@@ -73,6 +73,6 @@ Khai Nguyen, Tongzheng Ren, <b>Huy Nguyen</b>, Litu Rout, Tan Nguyen, Nhat Ho
 ## Journal Publications
 
 **[J.1]** [EPEM: Efficient Parameter Estimation for Multiple Class Monotone Missing Data](https://www.sciencedirect.com/science/article/abs/pii/S0020025521002346). *Information Sciences, Volume 567, August 2021, Pages 1-22*. <br/>
-Thu Nguyen, Duy H. M. Nguyen, <b>Huy Nguyen</b>, Binh T. Nguyen, Bruce A. Wade.
+Thu Nguyen, Duy H. M. Nguyen, <b>Huy Nguyen</b>, Binh T. Nguyen, Bruce A. Wade. -->
 
 
