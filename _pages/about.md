@@ -11,9 +11,9 @@ redirect_from:
 {% include base_path %}
 
    
-Welcome to my homepage! My full name is Minh Duc Le, and I am currently a second-year Ph.D student at the [Department of Statistics and Data Sciecnes, University of Texas at Austin](https://stat.utexas.edu/) where I am fortunate to be advised by Professor [Nhat Ho](https://nhatptnk8912.github.io/) and Professor [Alessandro Rinaldo](https://arinaldo.github.io/). Before that, I graduated from [Ho Chi Minh City University of Science](https://en.hcmus.edu.vn/) with a Bachelor's degree in Mathematics (Summa Cum Laude). 
+Welcome to my homepage! My full name is Minh Duc Le, and I am currently a research resident at [VinAI Research](https://research.vinai.io/) where I am fortunate to be advised by Professor [Tan Nguyen](https://tanmnguyen89.github.io/) and Professor [Nhat Ho](https://nhatptnk8912.github.io/). Before that, I graduated from [Hanoi University of Science and Technology](https://hust.edu.vn/) with a Bachelor's degree in Computer Science. 
 
-Email: huynm@utexas.edu
+Email: minh611002@gmail.com
 ## Research Interests 
 My current research focuses on theoretical foundations for Mixture-of-Experts models. In particular, I try to comprehend the effects of various gating functions (namely softmax gate, top-K sparse softmax gate, dense-to-sparse gate, etc) on the convergence of density estimation and parameter estimation under the Mixture-of-Experts models. Based on insights from these results, I aim to design novel gating functions which help improve the performance of Mixture-of-Experts applications, including Large Language Models and Medical Images. Additionally, I am also interested in Optimal Transport theory.
 
