@@ -15,27 +15,17 @@ Welcome to my homepage! My full name is Minh Duc Le, and I am currently a resear
 
 Email: minh611002@gmail.com
 ## Research Interests 
-My current research focuses on theoretical foundations for Mixture-of-Experts models. In particular, I try to comprehend the effects of various gating functions (namely softmax gate, top-K sparse softmax gate, dense-to-sparse gate, etc) on the convergence of density estimation and parameter estimation under the Mixture-of-Experts models. Based on insights from these results, I aim to design novel gating functions which help improve the performance of Mixture-of-Experts applications, including Large Language Models and Medical Images. Additionally, I am also interested in Optimal Transport theory.
+My current research centers on Continual Learning and applications of Mixture-of-Experts models. I am also open to diversifying my research to various aspects in the future.
+
 
 <span style="color:red"> **(\*) denotes equal contribution.** </span> <br/>
 ## Selected Preprints
-### Sigmoid Gating is More Sample Efficient than Softmax Gating in Mixture of Experts
-*__Huy Nguyen__, Nhat Ho, Alessandro Rinaldo*<br/>
-Under review [[arXiv](https://arxiv.org/abs/2405.13997)]
-### Statistical Advantages of Perturbing Cosine Router in Sparse Mixture of Experts
-*__Huy Nguyen__, Pedram Akbarian\*, Trang Pham\*, Trang Nguyen\*, Shujian Zhang, Nhat Ho*<br/>
-Under review [[arXiv](https://arxiv.org/abs/2405.14131)]
 ### Mixture of Experts Meets Prompt-Based Continual Learning
-*Minh Le, An Nguyen\*, __Huy Nguyen\*__, Trang Nguyen\*, Trang Pham\*, Linh Van Ngo, Nhat Ho*<br/>
+*__Minh Le__, An Nguyen\*, Huy Nguyen\*, Trang Nguyen\*, Trang Pham\*, Linh Van Ngo, Nhat Ho*<br/>
 Under review [[arXiv](https://arxiv.org/abs/2405.14124)]
-### FuseMoE: Mixture-of-Experts Transformers for Fleximodal Fusion
-*Xing Han, __Huy Nguyen\*__, Carl Harris\*, Nhat Ho, Suchi Saria*<br/>
-Under review [[arXiv](https://arxiv.org/abs/2402.03226)]
-### CompeteSMoE - Effective Training of Sparse Mixture of Experts via Competition
-*Quang Pham, Giang Do, __Huy Nguyen__, TrungTin Nguyen, Chenghao Liu, Mina Sartipi, Binh T. Nguyen, Savitha Ramasamy, Xiaoli Li, Steven Hoi, Nhat Ho*<br/>
-Under review [[arXiv](https://arxiv.org/abs/2402.02526)]
 
-## Selected Publications on Mixture of Experts
+
+<!-- ## Selected Publications on Mixture of Experts
 ### On Least Squares Estimation in Softmax Gating Mixture of Experts
 *__Huy Nguyen__, Nhat Ho, Alessandro Rinaldo*<br/>
 Proceedings of the ICML, 2024. [[arXiv](https://arxiv.org/abs/2402.02952)]
@@ -92,4 +82,4 @@ Advances in NeurIPS, 2021.  [[arXiv](https://arxiv.org/abs/2102.06857)] [[NeurIP
 ## Professional Services
 - Conference Reviewer: ICML (2022,2024), NeurIPS (2022-2024), AISTATS (2022-2024) and ICLR (2024).
 - Journal Reviewer: Electronic Journal of Statistics
-- Workshop Reviewer: Frontier4LCD (ICML 2023).
+- Workshop Reviewer: Frontier4LCD (ICML 2023). -->
