@@ -11,7 +11,7 @@ redirect_from:
 {% include base_path %}
 
    
-Welcome to my homepage! My full name is Huy Minh Nguyen, and I am currently a second-year Ph.D student at the [Department of Statistics and Data Sciecnes, University of Texas at Austin](https://stat.utexas.edu/) where I am fortunate to be advised by Professor [Nhat Ho](https://nhatptnk8912.github.io/) and Professor [Alessandro Rinaldo](https://arinaldo.github.io/). Before that, I graduated from [Ho Chi Minh City University of Science](https://en.hcmus.edu.vn/) with a Bachelor's degree in Mathematics (Summa Cum Laude). 
+Welcome to my homepage! My full name is Minh Duc Le, and I am currently a second-year Ph.D student at the [Department of Statistics and Data Sciecnes, University of Texas at Austin](https://stat.utexas.edu/) where I am fortunate to be advised by Professor [Nhat Ho](https://nhatptnk8912.github.io/) and Professor [Alessandro Rinaldo](https://arinaldo.github.io/). Before that, I graduated from [Ho Chi Minh City University of Science](https://en.hcmus.edu.vn/) with a Bachelor's degree in Mathematics (Summa Cum Laude). 
 
 Email: huynm@utexas.edu
 ## Research Interests 
