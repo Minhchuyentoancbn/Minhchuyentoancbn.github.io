@@ -56,9 +56,9 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter "@HuyNguy63796499"
-facebook:
   username               : 
+facebook:
+  username               : &facebook "profile.php?id=100008890392245"
   app_id                 :
   publisher              :
 og_image                 : "site-logo.png" # Open Graph/Twitter default site image
