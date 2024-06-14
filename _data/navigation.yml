@@ -9,8 +9,8 @@ main:
 #  - title: "Expressions"
 #    url: /expressions/
 #
-  - title: "Collaborators"
-    url: /collabs/
+  # - title: "Collaborators"
+  #   url: /collabs/
         
 #  - title: "Blog Posts"
 #    url: /year-archive/
