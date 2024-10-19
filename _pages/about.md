@@ -19,15 +19,22 @@ My current research centers on Continual Learning and applications of Mixture-of
 
 
 <span style="color:red"> **(\*) denotes equal contribution.** </span> <br/>
+
 ## Selected Preprints
-### Mixture of Experts Meets Prompt-Based Continual Learning
+### [Revisiting Prefix-tuning: Statistical Benefits of Reparameterization among Prompts](https://arxiv.org/abs/2410.02200)
+__*Minh Le\*__, Chau Nguyen\*, Huy Nguyen\*, Quyen Tran, Trung Le, Nhat Ho*<br/>
+Under review
+### [Leveraging Hierarchical Taxonomies in Prompt-based Continual Learning](https://arxiv.org/abs/2410.04327)
+*Quyen Tran, __Minh Le__, Tuan Truong, Dinh Phung, Linh Ngo, Thien Nguyen, Nhat Ho, Trung Le*<br/>
+Under review
+
+
+## Selected Publications on Mixture of Experts
+### [Mixture of Experts Meets Prompt-Based Continual Learning](https://arxiv.org/abs/2405.14124)
 *__Minh Le__, An Nguyen\*, Huy Nguyen\*, Trang Nguyen\*, Trang Pham\*, Linh Van Ngo, Nhat Ho*<br/>
-Under review [[arXiv](https://arxiv.org/abs/2405.14124)]
+Advances in NeurIPS, 2024
 
-
-<!-- ## Selected Publications on Mixture of Experts
-### On Least Squares Estimation in Softmax Gating Mixture of Experts
-*__Huy Nguyen__, Nhat Ho, Alessandro Rinaldo*<br/>
+<!-- *__Huy Nguyen__, Nhat Ho, Alessandro Rinaldo*<br/>
 Proceedings of the ICML, 2024. [[arXiv](https://arxiv.org/abs/2402.02952)]
 ### Is Temperature Sample Efficient for Softmax Gaussian Mixture of Experts?
 *__Huy Nguyen__, Pedram Akbarian, Nhat Ho*<br/>
@@ -46,9 +53,9 @@ Proceedings of the ICML, 2024. [[arXiv](https://arxiv.org/abs/2310.14188)]
 In AISTATS, 2024. [[arXiv](https://arxiv.org/abs/2305.07572)]
 ### On Parameter Estimation in Deviated Gaussian Mixture of Experts
 *__Huy Nguyen__, Khai Nguyen, Nhat Ho*<br/>
-In AISTATS, 2024. [[arXiv](https://arxiv.org/abs/2402.05220)]
+In AISTATS, 2024. [[arXiv](https://arxiv.org/abs/2402.05220)] -->
 
-## Selected Publications on Optimal Transport
+<!-- ## Selected Publications on Optimal Transport
 ### Entropic Gromov-Wasserstein between Gaussian Distributions
 *__Huy Nguyen\*__, Khang Le\*, Dung Le\*, Dat Do, Tung Pham, Nhat Ho*<br/>
 Proceedings of the ICML, 2022.  [[arXiv](https://arxiv.org/abs/2108.10961)] [[ICML](https://proceedings.mlr.press/v162/le22a.html)]
@@ -82,4 +89,4 @@ Advances in NeurIPS, 2021.  [[arXiv](https://arxiv.org/abs/2102.06857)] [[NeurIP
 ## Professional Services
 - Conference Reviewer: ICML (2022,2024), NeurIPS (2022-2024), AISTATS (2022-2024) and ICLR (2024).
 - Journal Reviewer: Electronic Journal of Statistics
-- Workshop Reviewer: Frontier4LCD (ICML 2023). -->
+- Workshop Reviewer: Frontier4LCD (ICML 2023). --> -->
