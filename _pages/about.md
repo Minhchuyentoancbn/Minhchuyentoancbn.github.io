@@ -22,7 +22,7 @@ My current research centers on Continual Learning and applications of Mixture-of
 
 ## Selected Preprints
 ### [Revisiting Prefix-tuning: Statistical Benefits of Reparameterization among Prompts](https://arxiv.org/abs/2410.02200)
-__*Minh Le\*__, Chau Nguyen\*, Huy Nguyen\*, Quyen Tran, Trung Le, Nhat Ho*<br/>
+*__*Minh Le\*__, Chau Nguyen\*, Huy Nguyen\*, Quyen Tran, Trung Le, Nhat Ho*<br/>
 Under review
 ### [Leveraging Hierarchical Taxonomies in Prompt-based Continual Learning](https://arxiv.org/abs/2410.04327)
 *Quyen Tran, __Minh Le__, Tuan Truong, Dinh Phung, Linh Ngo, Thien Nguyen, Nhat Ho, Trung Le*<br/>
@@ -89,4 +89,4 @@ Advances in NeurIPS, 2021.  [[arXiv](https://arxiv.org/abs/2102.06857)] [[NeurIP
 ## Professional Services
 - Conference Reviewer: ICML (2022,2024), NeurIPS (2022-2024), AISTATS (2022-2024) and ICLR (2024).
 - Journal Reviewer: Electronic Journal of Statistics
-- Workshop Reviewer: Frontier4LCD (ICML 2023). --> -->
+- Workshop Reviewer: Frontier4LCD (ICML 2023). -->
