@@ -12,6 +12,7 @@ redirect_from:
 
 (*) denotes equal contribution
 
+
 ## Preprints
 
 **[P.1]** [Revisiting Prefix-tuning: Statistical Benefits of Reparameterization among Prompts](https://arxiv.org/pdf/2410.02200). *Under review*. <br/>
@@ -31,4 +32,5 @@ Quang Pham, Giang Do, <b>Huy Nguyen</b>, TrungTin Nguyen, Chenghao Liu, Mina Sar
 **[C.1]** [Mixture of Experts Meets Prompt-Based Continual Learning](https://arxiv.org/pdf/2405.14124.pdf). *Advances in NeurIPS, 2024*. <br/>
 <b>Minh Le</b>, An Nguyen\*, Huy Nguyen\*, Trang Nguyen\*, Trang Pham\*, Linh Van Ngo, Nhat Ho
 
-
+**[C.2]** [Adaptive Prompting for Continual Relation Extraction: A Within-Task Variance Perspective](https://arxiv.org/abs/2412.08285). *Proceedings of the AAAI Conference on Artificial Intelligence 39, 2025*. <br/>
+<b>Minh Le</b>, Tien Ngoc Luu\*, An Nguyen The\*, Thanh-Thien Le, Trang Nguyen, Thanh Tung Nguyen, Linh Ngo Van, Thien Huu Nguyen

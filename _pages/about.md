@@ -22,7 +22,7 @@ My current research centers on Continual Learning and applications of Mixture-of
 
 ## Selected Preprints
 ### [Revisiting Prefix-tuning: Statistical Benefits of Reparameterization among Prompts](https://arxiv.org/abs/2410.02200)
-*__*Minh Le\*__, Chau Nguyen\*, Huy Nguyen\*, Quyen Tran, Trung Le, Nhat Ho*<br/>
+*__Minh Le\*__, Chau Nguyen\*, Huy Nguyen\*, Quyen Tran, Trung Le, Nhat Ho*<br/>
 Under review
 ### [Leveraging Hierarchical Taxonomies in Prompt-based Continual Learning](https://arxiv.org/abs/2410.04327)
 *Quyen Tran, __Minh Le__, Tuan Truong, Dinh Phung, Linh Ngo, Thien Nguyen, Nhat Ho, Trung Le*<br/>
@@ -30,9 +30,15 @@ Under review
 
 
 ## Selected Publications on Mixture of Experts
+### [Adaptive Prompting for Continual Relation Extraction: A Within-Task Variance Perspective](https://arxiv.org/abs/2412.08285)
+*__Minh Le\*__, Tien Ngoc Luu\*, An Nguyen The\*, Thanh-Thien Le, Trang Nguyen, Thanh Tung Nguyen, Linh Ngo Van, Thien Huu Nguyen*<br/>
+Proceedings of the AAAI Conference on Artificial Intelligence 39, 2025
+
 ### [Mixture of Experts Meets Prompt-Based Continual Learning](https://arxiv.org/abs/2405.14124)
 *__Minh Le__, An Nguyen\*, Huy Nguyen\*, Trang Nguyen\*, Trang Pham\*, Linh Van Ngo, Nhat Ho*<br/>
 Advances in NeurIPS, 2024
+
+
 
 <!-- *__Huy Nguyen__, Nhat Ho, Alessandro Rinaldo*<br/>
 Proceedings of the ICML, 2024. [[arXiv](https://arxiv.org/abs/2402.02952)]
