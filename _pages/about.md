@@ -21,21 +21,21 @@ My current research centers on Continual Learning and applications of Mixture-of
 <span style="color:red"> **(\*) denotes equal contribution.** </span> <br/>
 
 ## Selected Preprints
-[Revisiting Prefix-tuning: Statistical Benefits of Reparameterization among Prompts](https://arxiv.org/abs/2410.02200) 
-Under review <br/>
-*__Minh Le\*__, Chau Nguyen\*, Huy Nguyen\*, Quyen Tran, Trung Le, Nhat Ho*<br/>
-
-[Leveraging Hierarchical Taxonomies in Prompt-based Continual Learning](https://arxiv.org/abs/2410.04327)
+[Leveraging Hierarchical Taxonomies in Prompt-based Continual Learning](https://arxiv.org/abs/2410.04327) <br/>
 Under review <br/>
 *Quyen Tran, __Minh Le__, Tuan Truong, Dinh Phung, Linh Ngo, Thien Nguyen, Nhat Ho, Trung Le*<br/>
 
 
 ## Selected Publications on Mixture of Experts
-[Adaptive Prompting for Continual Relation Extraction: A Within-Task Variance Perspective](https://arxiv.org/abs/2412.08285)
+[Revisiting Prefix-tuning: Statistical Benefits of Reparameterization among Prompts](https://arxiv.org/abs/2410.02200) <br/>
+Proceedings of the ICLR, 2025 <br/>
+*__Minh Le\*__, Chau Nguyen\*, Huy Nguyen\*, Quyen Tran, Trung Le, Nhat Ho*<br/>
+
+[Adaptive Prompting for Continual Relation Extraction: A Within-Task Variance Perspective](https://arxiv.org/abs/2412.08285) <br/>
 Proceedings of the AAAI Conference on Artificial Intelligence 39, 2025 <span style="color:red"> **(Oral)** </span> <br/>
 *__Minh Le\*__, Tien Ngoc Luu\*, An Nguyen The\*, Thanh-Thien Le, Trang Nguyen, Thanh Tung Nguyen, Linh Ngo Van, Thien Huu Nguyen*<br/>
 
-[Mixture of Experts Meets Prompt-Based Continual Learning](https://arxiv.org/abs/2405.14124)
+[Mixture of Experts Meets Prompt-Based Continual Learning](https://arxiv.org/abs/2405.14124) <br/>
 Advances in NeurIPS, 2024 <br/>
 *__Minh Le__, An Nguyen\*, Huy Nguyen\*, Trang Nguyen\*, Trang Pham\*, Linh Van Ngo, Nhat Ho*<br/>
 
