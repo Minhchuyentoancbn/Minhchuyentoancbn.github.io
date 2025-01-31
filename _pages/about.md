@@ -15,7 +15,7 @@ Welcome to my homepage! My full name is Duc-Minh Le, and I am currently a resear
 
 Email: minh611002@gmail.com
 ## Research Interests 
-My current research centers on Continual Learning and applications of Mixture-of-Experts models. I am also open to diversifying my research to various aspects in the future.
+My current research centers on Parameter Efficient Fine-tuning, Continual Learning and applications of Mixture of Experts models. I am also open to diversifying my research to various aspects in the future.
 
 
 <span style="color:red"> **(\*) denotes equal contribution.** </span> <br/>
