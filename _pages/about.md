@@ -25,6 +25,11 @@ I'm actively seeking PhD positions in Computer Science for the upcoming academic
 <span style="color:red"> **(\*) denotes equal contribution.** </span> <br/>
 
 ## Selected Preprints
+[Adaptive Prompt: Unlocking the Power of Visual Prompt Tuning](https://arxiv.org/abs/2501.18936) <br/>
+Under review <br/>
+*__Minh Le\*__, Anh Nguyen\*, Huy Nguyen, Chau Nguyen, Nhat Ho*<br/>
+
+
 [Leveraging Hierarchical Taxonomies in Prompt-based Continual Learning](https://arxiv.org/abs/2410.04327) <br/>
 Under review <br/>
 *Quyen Tran, __Minh Le__, Tuan Truong, Dinh Phung, Linh Ngo, Thien Nguyen, Nhat Ho, Trung Le*<br/>

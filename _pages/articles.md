@@ -14,6 +14,10 @@ redirect_from:
 
 
 ## Preprints
+**[P.2]** [Adaptive Prompt: Unlocking the Power of Visual Prompt Tuning](https://arxiv.org/abs/2501.18936). <br/>
+*Under review*. <br/>
+<b>Minh Le\*</b>, Anh Nguyen\*, Huy Nguyen, Chau Nguyen, Nhat Ho
+
 
 **[P.1]** [Leveraging Hierarchical Taxonomies in Prompt-based Continual Learning](https://arxiv.org/abs/2410.04327). <br/>
 *Under review*. <br/>
