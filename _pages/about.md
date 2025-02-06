@@ -29,11 +29,11 @@ I'm actively seeking PhD positions in Computer Science for the upcoming academic
 Under review <br/>
 *__Minh Le\*__, Anh Nguyen\*, Huy Nguyen, Chau Nguyen, Nhat Ho*<br/>
 
-[RepLoRA: Reparameterizing Low-rank Adaptation via the Perspective of Mixture of Experts](https://arxiv.org/abs/2410.02200) <br/> 
+[RepLoRA: Reparameterizing Low-rank Adaptation via the Perspective of Mixture of Experts](https://arxiv.org/abs/2502.03044) <br/> 
 Under review <br/>
 *Tuan Truong\*, Chau Nguyen\*, Huy Nguyen\*, __Minh Le__, Trung Le, Nhat Ho*<br/>
 
-[On Zero-Initialized Attention: Optimal Prompt and Gating Factor Estimation](https://arxiv.org/abs/2410.02200) <br/>
+[On Zero-Initialized Attention: Optimal Prompt and Gating Factor Estimation](https://arxiv.org/abs/2502.03029) <br/>
 Under review <br/>
 *Nghiem T. Diep\*, Huy Nguyen\*, Chau Nguyen\*, __Minh Le__, Duy M. H. Nguyen, Daniel Sonntag, Mathias Niepert, Nhat Ho*<br/>
 

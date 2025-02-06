@@ -19,12 +19,12 @@ redirect_from:
 <b>Minh Le\*</b>, Anh Nguyen\*, Huy Nguyen, Chau Nguyen, Nhat Ho
 
 
-**[P.3]** [RepLoRA: Reparameterizing Low-rank Adaptation via the Perspective of Mixture of Experts](https://arxiv.org/abs/2410.02200). <br/>
+**[P.3]** [RepLoRA: Reparameterizing Low-rank Adaptation via the Perspective of Mixture of Experts](https://arxiv.org/abs/2502.03044). <br/>
 *Under review*. <br/>
 Tuan Truong\*, Chau Nguyen\*, Huy Nguyen\*, <b>Minh Le</b>, Trung Le, Nhat Ho
 
 
-**[P.2]** [On Zero-Initialized Attention: Optimal Prompt and Gating Factor Estimation](https://arxiv.org/abs/2410.02200). <br/>
+**[P.2]** [On Zero-Initialized Attention: Optimal Prompt and Gating Factor Estimation](https://arxiv.org/abs/2502.03029). <br/>
 *Under review*. <br/>
 Nghiem T. Diep\*, Huy Nguyen\*, Chau Nguyen\*, <b>Minh Le</b>, Duy M. H. Nguyen, Daniel Sonntag, Mathias Niepert, Nhat Ho
 
