@@ -107,9 +107,7 @@ Advances in NeurIPS, 2021.  [[arXiv](https://arxiv.org/abs/2102.06857)] [[NeurIP
 - **[Sep 2023]** We have two papers accepted to NeurIPS 2023, [[1](https://arxiv.org/pdf/2305.03288.pdf)] as <span style="color:red"> **spotlight** </span> and [[2](https://arxiv.org/pdf/2301.11808.pdf)] as poster.
 - **[Jul 2023]** We will present the paper "[Fast Approximation of the Generalized Sliced-Wasserstein Distance](https://openreview.net/pdf?id=u3JeFO8G8s)" at the Frontier4LCD workshop, ICML 2023.
 - **[May 2023]** Three new papers on the Mixture of Experts theory are out! See more at [[1]](https://arxiv.org/abs/2305.03288), [[2]](https://arxiv.org/abs/2305.07572) and [[3](https://huynm99.github.io/Deviated_MoE.pdf)].
-- **[Feb 2023]** Our new paper on Mixture Models theory "[Minimax Optimal Rate for Parameter Estimation in Multivariate Deviated Models](https://arxiv.org/abs/2301.11808)" is out.
+- **[Feb 2023]** Our new paper on Mixture Models theory "[Minimax Optimal Rate for Parameter Estimation in Multivariate Deviated Models](https://arxiv.org/abs/2301.11808)" is out. -->
 
 ## Professional Services
-- Conference Reviewer: ICML (2022,2024), NeurIPS (2022-2024), AISTATS (2022-2024) and ICLR (2024).
-- Journal Reviewer: Electronic Journal of Statistics
-- Workshop Reviewer: Frontier4LCD (ICML 2023). -->
+- Conference Reviewer: ICML 2025
