@@ -11,7 +11,7 @@ redirect_from:
 {% include base_path %}
 
    
-Welcome to my homepage! My full name is Duc-Minh Le, you can call me Minh 👋. I am currently a research resident at [VinAI Research](https://research.vinai.io/) 🤖 where I am fortunate to be advised by Professor [Nhat Ho](https://nhatptnk8912.github.io/) 🏛️. Before that, I graduated from [Hanoi University of Science and Technology](https://hust.edu.vn/) with a Bachelor's degree in Computer Science. 
+Welcome to my homepage! My full name is Duc-Minh Le, you can call me Minh 👋. I am currently a research resident at [Qualcomm AI Research](https://www.qualcomm.com/research/artificial-intelligence) 🤖 where I am fortunate to be advised by Professor [Nhat Ho](https://nhatptnk8912.github.io/) 🏛️. Before that, I graduated from [Hanoi University of Science and Technology](https://hust.edu.vn/) with a Bachelor's degree in Computer Science. 
 
 Email: minh611002@gmail.com
 ## Research Interests 
