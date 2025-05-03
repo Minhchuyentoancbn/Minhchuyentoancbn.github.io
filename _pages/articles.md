@@ -14,20 +14,9 @@ redirect_from:
 
 
 ## Preprints
-**[P.4]** [Adaptive Prompt: Unlocking the Power of Visual Prompt Tuning](https://arxiv.org/abs/2501.18936). <br/>
+**[P.2]** [Adaptive Prompt: Unlocking the Power of Visual Prompt Tuning](https://arxiv.org/abs/2501.18936). <br/>
 *Under review*. <br/>
 <b>Minh Le\*</b>, Anh Nguyen\*, Huy Nguyen, Chau Nguyen, Nhat Ho
-
-
-**[P.3]** [RepLoRA: Reparameterizing Low-rank Adaptation via the Perspective of Mixture of Experts](https://arxiv.org/abs/2502.03044). <br/>
-*Under review*. <br/>
-Tuan Truong\*, Chau Nguyen\*, Huy Nguyen\*, <b>Minh Le</b>, Trung Le, Nhat Ho
-
-
-**[P.2]** [On Zero-Initialized Attention: Optimal Prompt and Gating Factor Estimation](https://arxiv.org/abs/2502.03029). <br/>
-*Under review*. <br/>
-Nghiem T. Diep\*, Huy Nguyen\*, Chau Nguyen\*, <b>Minh Le</b>, Duy M. H. Nguyen, Daniel Sonntag, Mathias Niepert, Nhat Ho
-
 
 **[P.1]** [Leveraging Hierarchical Taxonomies in Prompt-based Continual Learning](https://arxiv.org/abs/2410.04327). <br/>
 *Under review*. <br/>
@@ -41,6 +30,15 @@ Xing Han, <b>Huy Nguyen\*</b>, Carl Harris\*, Nhat Ho, Suchi Saria
 Quang Pham, Giang Do, <b>Huy Nguyen</b>, TrungTin Nguyen, Chenghao Liu, Mina Sartipi, Binh T. Nguyen, Savitha Ramasamy, Xiaoli Li, Steven Hoi, Nhat Ho -->
 
 ## Conference Publications
+
+
+**[C.5]** [RepLoRA: Reparameterizing Low-rank Adaptation via the Perspective of Mixture of Experts](https://arxiv.org/abs/2502.03044). <br/>
+*Proceedings of the ICML, 2025*. <br/>
+Tuan Truong\*, Chau Nguyen\*, Huy Nguyen\*, <b>Minh Le</b>, Trung Le, Nhat Ho
+
+**[C.4]** [On Zero-Initialized Attention: Optimal Prompt and Gating Factor Estimation](https://arxiv.org/abs/2502.03029). <br/>
+*Proceedings of the ICML, 2025*. <br/>
+Nghiem T. Diep\*, Huy Nguyen\*, Chau Nguyen\*, <b>Minh Le</b>, Duy M. H. Nguyen, Daniel Sonntag, Mathias Niepert, Nhat Ho
 
 **[C.3]** [Revisiting Prefix-tuning: Statistical Benefits of Reparameterization among Prompts](https://arxiv.org/pdf/2410.02200). <br/>
 *Proceedings of the ICLR, 2025*. <br/>

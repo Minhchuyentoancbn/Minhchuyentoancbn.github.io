@@ -29,20 +29,20 @@ I'm actively seeking PhD positions in Computer Science for the upcoming academic
 Under review <br/>
 *__Minh Le\*__, Anh Nguyen\*, Huy Nguyen, Chau Nguyen, Nhat Ho*<br/>
 
-[RepLoRA: Reparameterizing Low-rank Adaptation via the Perspective of Mixture of Experts](https://arxiv.org/abs/2502.03044) <br/> 
-Under review <br/>
-*Tuan Truong\*, Chau Nguyen\*, Huy Nguyen\*, __Minh Le__, Trung Le, Nhat Ho*<br/>
-
-[On Zero-Initialized Attention: Optimal Prompt and Gating Factor Estimation](https://arxiv.org/abs/2502.03029) <br/>
-Under review <br/>
-*Nghiem T. Diep\*, Huy Nguyen\*, Chau Nguyen\*, __Minh Le__, Duy M. H. Nguyen, Daniel Sonntag, Mathias Niepert, Nhat Ho*<br/>
-
 [Leveraging Hierarchical Taxonomies in Prompt-based Continual Learning](https://arxiv.org/abs/2410.04327) <br/>
 Under review <br/>
 *Quyen Tran, __Minh Le__, Tuan Truong, Dinh Phung, Linh Ngo, Thien Nguyen, Nhat Ho, Trung Le*<br/>
 
 
 ## Selected Publications on Mixture of Experts
+[RepLoRA: Reparameterizing Low-rank Adaptation via the Perspective of Mixture of Experts](https://arxiv.org/abs/2502.03044) <br/> 
+Proceedings of the ICML, 2025 <br/>
+*Tuan Truong\*, Chau Nguyen\*, Huy Nguyen\*, __Minh Le__, Trung Le, Nhat Ho*<br/>
+
+[On Zero-Initialized Attention: Optimal Prompt and Gating Factor Estimation](https://arxiv.org/abs/2502.03029) <br/>
+Proceedings of the ICML, 2025 <br/>
+*Nghiem T. Diep\*, Huy Nguyen\*, Chau Nguyen\*, __Minh Le__, Duy M. H. Nguyen, Daniel Sonntag, Mathias Niepert, Nhat Ho*<br/>
+
 [Revisiting Prefix-tuning: Statistical Benefits of Reparameterization among Prompts](https://arxiv.org/abs/2410.02200) <br/>
 Proceedings of the ICLR, 2025 <br/>
 *__Minh Le\*__, Chau Nguyen\*, Huy Nguyen\*, Quyen Tran, Trung Le, Nhat Ho*<br/>
