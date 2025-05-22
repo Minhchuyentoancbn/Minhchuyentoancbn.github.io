@@ -14,6 +14,10 @@ redirect_from:
 
 
 ## Preprints
+**[P.3]** [Towards Rehearsal-Free Continual Relation Extraction: Capturing Within-Task Variance with Adaptive Prompting](https://arxiv.org/abs/2505.13944). <br/>
+*Under review*. <br/>
+Bao-Ngoc Dao\*, Quang Nguyen\*, Luyen Ngo Dinh\*, <b>Minh Le\*</b>, Nam Le, Linh Ngo Van
+
 **[P.2]** [Adaptive Prompt: Unlocking the Power of Visual Prompt Tuning](https://arxiv.org/abs/2501.18936). <br/>
 *Under review*. <br/>
 <b>Minh Le\*</b>, Anh Nguyen\*, Huy Nguyen, Chau Nguyen, Nhat Ho

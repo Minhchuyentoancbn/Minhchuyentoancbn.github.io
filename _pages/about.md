@@ -25,6 +25,11 @@ I'm actively seeking PhD positions in Computer Science for the upcoming academic
 <span style="color:red"> **(\*) denotes equal contribution.** </span> <br/>
 
 ## Selected Preprints
+
+[Towards Rehearsal-Free Continual Relation Extraction: Capturing Within-Task Variance with Adaptive Prompting](https://arxiv.org/abs/2505.13944) <br/>
+Under review <br/>
+Bao-Ngoc Dao\*, Quang Nguyen\*, Luyen Ngo Dinh\*, __Minh Le\*__, Nam Le, Linh Ngo Van<br/>
+
 [Adaptive Prompt: Unlocking the Power of Visual Prompt Tuning](https://arxiv.org/abs/2501.18936) <br/>
 Under review <br/>
 *__Minh Le\*__, Anh Nguyen\*, Huy Nguyen, Chau Nguyen, Nhat Ho*<br/>
