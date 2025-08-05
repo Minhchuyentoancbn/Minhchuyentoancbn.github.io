@@ -115,4 +115,4 @@ Advances in NeurIPS, 2021.  [[arXiv](https://arxiv.org/abs/2102.06857)] [[NeurIP
 - **[Feb 2023]** Our new paper on Mixture Models theory "[Minimax Optimal Rate for Parameter Estimation in Multivariate Deviated Models](https://arxiv.org/abs/2301.11808)" is out. -->
 
 ## Professional Services
-- Conference Reviewer: ICML 2025, ACL 2025, CVPR 2025, AAAI 2025
+- Conference Reviewer: ICML 2025, ACL 2025, CVPR 2025, NeurIPS 2025
