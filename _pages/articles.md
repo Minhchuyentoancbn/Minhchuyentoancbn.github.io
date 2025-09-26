@@ -18,9 +18,9 @@ redirect_from:
 *Under review*. <br/>
 Bao-Ngoc Dao\*, Quang Nguyen\*, Luyen Ngo Dinh\*, <b>Minh Le\*</b>, Nam Le, Linh Ngo Van
 
-**[P.2]** [Adaptive Prompt: Unlocking the Power of Visual Prompt Tuning](https://arxiv.org/abs/2501.18936). <br/>
+**[P.2]** [On the Expressiveness of Visual Prompt Experts](https://arxiv.org/abs/2501.18936). <br/>
 *Under review*. <br/>
-<b>Minh Le\*</b>, Anh Nguyen\*, Huy Nguyen, Chau Nguyen, Nhat Ho
+<b>Minh Le\*</b>, Anh Nguyen\*, Huy Nguyen, Chau Nguyen, Anh Tran, Nhat Ho
 
 **[P.1]** [Leveraging Hierarchical Taxonomies in Prompt-based Continual Learning](https://arxiv.org/abs/2410.04327). <br/>
 *Under review*. <br/>

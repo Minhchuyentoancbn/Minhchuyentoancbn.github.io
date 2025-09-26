@@ -26,13 +26,13 @@ I'm actively seeking PhD positions in Computer Science for the upcoming academic
 
 ## Selected Preprints
 
+[On the Expressiveness of Visual Prompt Experts](https://arxiv.org/abs/2501.18936) <br/>
+Under review <br/>
+*__Minh Le\*__, Anh Nguyen\*, Huy Nguyen, Chau Nguyen, Anh Tran, Nhat Ho*<br/>
+
 [Towards Rehearsal-Free Continual Relation Extraction: Capturing Within-Task Variance with Adaptive Prompting](https://arxiv.org/abs/2505.13944) <br/>
 Under review <br/>
 Bao-Ngoc Dao\*, Quang Nguyen\*, Luyen Ngo Dinh\*, __Minh Le\*__, Nam Le, Linh Ngo Van<br/>
-
-[Adaptive Prompt: Unlocking the Power of Visual Prompt Tuning](https://arxiv.org/abs/2501.18936) <br/>
-Under review <br/>
-*__Minh Le\*__, Anh Nguyen\*, Huy Nguyen, Chau Nguyen, Nhat Ho*<br/>
 
 [Leveraging Hierarchical Taxonomies in Prompt-based Continual Learning](https://arxiv.org/abs/2410.04327) <br/>
 Under review <br/>
