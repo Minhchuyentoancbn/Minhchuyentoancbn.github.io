@@ -14,6 +14,10 @@ redirect_from:
 
 
 ## Preprints
+**[P.4]** [One-Prompt Strikes Back: Sparse Mixture of Experts for Prompt-based Continual Learning](https://arxiv.org/abs/2509.24483). <br/>
+*Under review*. <br/>
+<b>Minh Le</b>, Bao-Ngoc Dao, Huy Nguyen, Quyen Tran, Anh Nguyen, Nhat Ho
+
 **[P.3]** [Towards Rehearsal-Free Continual Relation Extraction: Capturing Within-Task Variance with Adaptive Prompting](https://arxiv.org/abs/2505.13944). <br/>
 *Under review*. <br/>
 Bao-Ngoc Dao\*, Quang Nguyen\*, Luyen Ngo Dinh\*, <b>Minh Le\*</b>, Nam Le, Linh Ngo Van

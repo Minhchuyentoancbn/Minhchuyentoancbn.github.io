@@ -26,6 +26,10 @@ I'm actively seeking PhD positions in Computer Science for the upcoming academic
 
 ## Selected Preprints
 
+[One-Prompt Strikes Back: Sparse Mixture of Experts for Prompt-based Continual Learning](https://arxiv.org/abs/2509.24483) <br/>
+Under review <br/>
+*__Minh Le__, Bao-Ngoc Dao, Huy Nguyen, Quyen Tran, Anh Nguyen, Nhat Ho*<br/>
+
 [On the Expressiveness of Visual Prompt Experts](https://arxiv.org/abs/2501.18936) <br/>
 Under review <br/>
 *__Minh Le\*__, Anh Nguyen\*, Huy Nguyen, Chau Nguyen, Anh Tran, Nhat Ho*<br/>
