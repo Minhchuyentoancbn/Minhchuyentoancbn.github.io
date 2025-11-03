@@ -11,7 +11,8 @@ redirect_from:
 {% include base_path %}
 
    
-Welcome to my homepage! My full name is Duc-Minh Le, you can call me Minh 👋. I am currently a research resident at [Qualcomm AI Research](https://www.qualcomm.com/research/artificial-intelligence) 🤖 where I am fortunate to be advised by Professor [Nhat Ho](https://nhatptnk8912.github.io/) 🏛️. Before that, I graduated from [Hanoi University of Science and Technology](https://hust.edu.vn/) with a Bachelor's degree in Computer Science. 
+Welcome to my homepage! My full name is Duc-Minh Le, you can call me Minh 👋. I am currently an AI Engineer at Trivita AI. Previously, I was a research resident at [Qualcomm AI Research](https://www.qualcomm.com/research/artificial-intelligence) 🤖, where I had the privilege of being advised by Professor [Nhat Ho](https://nhatptnk8912.github.io/) 🏛️. I earned my Bachelor's degree in Computer Science from [Hanoi University of Science and Technology](https://hust.edu.vn/). 
+
 
 Email: minh611002@gmail.com
 ## Research Interests 
@@ -40,7 +41,7 @@ Bao-Ngoc Dao\*, Quang Nguyen\*, Luyen Ngo Dinh\*, __Minh Le\*__, Nam Le, Linh Ng
 
 [Leveraging Hierarchical Taxonomies in Prompt-based Continual Learning](https://arxiv.org/abs/2410.04327) <br/>
 Under review <br/>
-*Quyen Tran, __Minh Le__, Tuan Truong, Dinh Phung, Linh Ngo, Thien Nguyen, Nhat Ho, Trung Le*<br/>
+*Quyen Tran, Hoang Phan\*, __Minh Le__\*, Tuan Truong, Dinh Phung, Linh Ngo, Thien Nguyen, Nhat Ho, Trung Le*<br/>
 
 
 ## Selected Publications on Mixture of Experts
@@ -119,4 +120,5 @@ Advances in NeurIPS, 2021.  [[arXiv](https://arxiv.org/abs/2102.06857)] [[NeurIP
 - **[Feb 2023]** Our new paper on Mixture Models theory "[Minimax Optimal Rate for Parameter Estimation in Multivariate Deviated Models](https://arxiv.org/abs/2301.11808)" is out. -->
 
 ## Professional Services
-- Conference Reviewer: ICML 2025, NeurIPS 2025, ICLR 2026
+
+Conference Reviewer: ICML 2025, NeurIPS 2025, ICLR 2026

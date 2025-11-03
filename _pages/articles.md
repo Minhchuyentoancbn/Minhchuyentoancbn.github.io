@@ -28,7 +28,9 @@ Bao-Ngoc Dao\*, Quang Nguyen\*, Luyen Ngo Dinh\*, <b>Minh Le\*</b>, Nam Le, Linh
 
 **[P.1]** [Leveraging Hierarchical Taxonomies in Prompt-based Continual Learning](https://arxiv.org/abs/2410.04327). <br/>
 *Under review*. <br/>
-Quyen Tran, <b>Minh Le</b>, Tuan Truong, Dinh Phung, Linh Ngo, Thien Nguyen, Nhat Ho, Trung Le
+Quyen Tran, Hoang Phan\*, <b>Minh Le\*</b>, Tuan Truong, Dinh Phung, Linh Ngo, Thien Nguyen, Nhat Ho, Trung Le
+
+
 
 
 <!-- **[P.2]** [Fuse MoE: Mixture-of-Experts Transformers for Fleximodal Fusion](https://arxiv.org/pdf/2402.03226.pdf). *Under review*. <br/>
