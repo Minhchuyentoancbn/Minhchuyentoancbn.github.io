@@ -18,7 +18,7 @@ Email: minh611002@gmail.com
 ## Research Interests 
 
 
-My research focuses on advancing Artificial Intelligence and Machine Learning, with a strong emphasis on making them scalable and efficient ⬆. I've explored exciting topics such as Parameter-Efficient Fine-Tuning for optimizing AI models and Mixture of Experts for enhanced scalability. Additionally, I've worked on Continual Learning and remain deeply curious about new ideas and interdisciplinary research.
+My research focuses on advancing Artificial Intelligence and Machine Learning toward systems that can learn and adapt continuously and efficiently. I am particularly interested in Parameter-Efficient Fine-Tuning, Mixture of Experts, and Continual Learning, and I am excited to explore related directions that enhance the scalability, robustness, and practical impact of modern AI models.
 
 I'm actively seeking PhD positions in Computer Science for the upcoming academic year and excited to collaborate on impactful research! 🚀
 
