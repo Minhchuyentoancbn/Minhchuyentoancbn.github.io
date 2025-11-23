@@ -121,4 +121,4 @@ Advances in NeurIPS, 2021.  [[arXiv](https://arxiv.org/abs/2102.06857)] [[NeurIP
 
 ## Professional Services
 
-Conference Reviewer: ICML 2025, NeurIPS 2025, ICLR 2026
+Conference Reviewer: ICML 2025, NeurIPS 2025, ICLR 2026, CVPR 2026
