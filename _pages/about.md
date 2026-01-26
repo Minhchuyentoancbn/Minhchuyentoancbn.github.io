@@ -27,13 +27,6 @@ I'm actively seeking PhD positions in Computer Science for the upcoming academic
 
 ## Selected Preprints
 
-[One-Prompt Strikes Back: Sparse Mixture of Experts for Prompt-based Continual Learning](https://arxiv.org/abs/2509.24483) <br/>
-Under review <br/>
-*__Minh Le__, Bao-Ngoc Dao, Huy Nguyen, Quyen Tran, Anh Nguyen, Nhat Ho*<br/>
-
-[On the Expressiveness of Visual Prompt Experts](https://arxiv.org/abs/2501.18936) <br/>
-Under review <br/>
-*__Minh Le\*__, Anh Nguyen\*, Huy Nguyen, Chau Nguyen, Anh Tran, Nhat Ho*<br/>
 
 [Towards Rehearsal-Free Continual Relation Extraction: Capturing Within-Task Variance with Adaptive Prompting](https://arxiv.org/abs/2505.13944) <br/>
 Under review <br/>
@@ -45,6 +38,15 @@ Under review <br/>
 
 
 ## Selected Publications on Mixture of Experts
+[One-Prompt Strikes Back: Sparse Mixture of Experts for Prompt-based Continual Learning](https://arxiv.org/abs/2509.24483) <br/>
+Proceedings of the ICLR, 2026 <br/>
+*__Minh Le__, Bao-Ngoc Dao, Huy Nguyen, Quyen Tran, Anh Nguyen, Nhat Ho*<br/>
+
+[On the Expressiveness of Visual Prompt Experts](https://arxiv.org/abs/2501.18936) <br/>
+Proceedings of the ICLR, 2026 <br/>
+*__Minh Le\*__, Anh Nguyen\*, Huy Nguyen, Chau Nguyen, Anh Tran, Nhat Ho*<br/>
+
+
 [RepLoRA: Reparameterizing Low-rank Adaptation via the Perspective of Mixture of Experts](https://arxiv.org/abs/2502.03044) <br/> 
 Proceedings of the ICML, 2025 <br/>
 *Tuan Truong\*, Chau Nguyen\*, Huy Nguyen\*, __Minh Le__, Trung Le, Nhat Ho*<br/>
@@ -121,4 +123,4 @@ Advances in NeurIPS, 2021.  [[arXiv](https://arxiv.org/abs/2102.06857)] [[NeurIP
 
 ## Professional Services
 
-Conference Reviewer: ICML 2025, NeurIPS 2025, ICLR 2026, CVPR 2026
+Conference Reviewer: ICML 2025, NeurIPS 2025, ICLR 2026, CVPR 2026, ICML 2026

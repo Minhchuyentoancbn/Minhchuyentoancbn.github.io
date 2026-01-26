@@ -14,17 +14,9 @@ redirect_from:
 
 
 ## Preprints
-**[P.4]** [One-Prompt Strikes Back: Sparse Mixture of Experts for Prompt-based Continual Learning](https://arxiv.org/abs/2509.24483). <br/>
-*Under review*. <br/>
-<b>Minh Le</b>, Bao-Ngoc Dao, Huy Nguyen, Quyen Tran, Anh Nguyen, Nhat Ho
-
-**[P.3]** [Towards Rehearsal-Free Continual Relation Extraction: Capturing Within-Task Variance with Adaptive Prompting](https://arxiv.org/abs/2505.13944). <br/>
+**[P.2]** [Towards Rehearsal-Free Continual Relation Extraction: Capturing Within-Task Variance with Adaptive Prompting](https://arxiv.org/abs/2505.13944). <br/>
 *Under review*. <br/>
 Bao-Ngoc Dao\*, Quang Nguyen\*, Luyen Ngo Dinh\*, <b>Minh Le\*</b>, Nam Le, Linh Ngo Van
-
-**[P.2]** [On the Expressiveness of Visual Prompt Experts](https://arxiv.org/abs/2501.18936). <br/>
-*Under review*. <br/>
-<b>Minh Le\*</b>, Anh Nguyen\*, Huy Nguyen, Chau Nguyen, Anh Tran, Nhat Ho
 
 **[P.1]** [Leveraging Hierarchical Taxonomies in Prompt-based Continual Learning](https://arxiv.org/abs/2410.04327). <br/>
 *Under review*. <br/>
@@ -41,6 +33,13 @@ Quang Pham, Giang Do, <b>Huy Nguyen</b>, TrungTin Nguyen, Chenghao Liu, Mina Sar
 
 ## Conference Publications
 
+**[C.7]** [One-Prompt Strikes Back: Sparse Mixture of Experts for Prompt-based Continual Learning](https://arxiv.org/abs/2509.24483). <br/>
+*Proceedings of the ICLR, 2026*. <br/>
+<b>Minh Le</b>, Bao-Ngoc Dao, Huy Nguyen, Quyen Tran, Anh Nguyen, Nhat Ho
+
+**[C.6]** [On the Expressiveness of Visual Prompt Experts](https://arxiv.org/abs/2501.18936). <br/>
+*Proceedings of the ICLR, 2026*. <br/>
+<b>Minh Le\*</b>, Anh Nguyen\*, Huy Nguyen, Chau Nguyen, Anh Tran, Nhat Ho
 
 **[C.5]** [RepLoRA: Reparameterizing Low-rank Adaptation via the Perspective of Mixture of Experts](https://arxiv.org/abs/2502.03044). <br/>
 *Proceedings of the ICML, 2025*. <br/>
