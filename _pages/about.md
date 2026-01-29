@@ -37,15 +37,25 @@ Under review <br/>
 *Quyen Tran, Hoang Phan\*, __Minh Le__\*, Tuan Truong, Dinh Phung, Linh Ngo, Thien Nguyen, Nhat Ho, Trung Le*<br/>
 
 
-## Selected Publications on Mixture of Experts
+## Selected Publications on Continual Learning
 [One-Prompt Strikes Back: Sparse Mixture of Experts for Prompt-based Continual Learning](https://arxiv.org/abs/2509.24483) <br/>
 Proceedings of the ICLR, 2026 <br/>
 *__Minh Le__, Bao-Ngoc Dao, Huy Nguyen, Quyen Tran, Anh Nguyen, Nhat Ho*<br/>
 
+[Adaptive Prompting for Continual Relation Extraction: A Within-Task Variance Perspective](https://arxiv.org/abs/2412.08285) <br/>
+Proceedings of the AAAI Conference on Artificial Intelligence 39, 2025 <span style="color:red"> **(Oral)** </span> <br/>
+*__Minh Le\*__, Tien Ngoc Luu\*, An Nguyen The\*, Thanh-Thien Le, Trang Nguyen, Thanh Tung Nguyen, Linh Ngo Van, Thien Huu Nguyen*<br/>
+
+[Mixture of Experts Meets Prompt-Based Continual Learning](https://arxiv.org/abs/2405.14124) <br/>
+Advances in NeurIPS, 2024 <br/>
+*__Minh Le__, An Nguyen\*, Huy Nguyen\*, Trang Nguyen\*, Trang Pham\*, Linh Van Ngo, Nhat Ho*<br/>
+
+
+## Selected Publications on Efficient AI
+
 [On the Expressiveness of Visual Prompt Experts](https://arxiv.org/abs/2501.18936) <br/>
 Proceedings of the ICLR, 2026 <br/>
 *__Minh Le\*__, Anh Nguyen\*, Huy Nguyen, Chau Nguyen, Anh Tran, Nhat Ho*<br/>
-
 
 [RepLoRA: Reparameterizing Low-rank Adaptation via the Perspective of Mixture of Experts](https://arxiv.org/abs/2502.03044) <br/> 
 Proceedings of the ICML, 2025 <br/>
@@ -58,14 +68,6 @@ Proceedings of the ICML, 2025 <br/>
 [Revisiting Prefix-tuning: Statistical Benefits of Reparameterization among Prompts](https://arxiv.org/abs/2410.02200) <br/>
 Proceedings of the ICLR, 2025 <br/>
 *__Minh Le\*__, Chau Nguyen\*, Huy Nguyen\*, Quyen Tran, Trung Le, Nhat Ho*<br/>
-
-[Adaptive Prompting for Continual Relation Extraction: A Within-Task Variance Perspective](https://arxiv.org/abs/2412.08285) <br/>
-Proceedings of the AAAI Conference on Artificial Intelligence 39, 2025 <span style="color:red"> **(Oral)** </span> <br/>
-*__Minh Le\*__, Tien Ngoc Luu\*, An Nguyen The\*, Thanh-Thien Le, Trang Nguyen, Thanh Tung Nguyen, Linh Ngo Van, Thien Huu Nguyen*<br/>
-
-[Mixture of Experts Meets Prompt-Based Continual Learning](https://arxiv.org/abs/2405.14124) <br/>
-Advances in NeurIPS, 2024 <br/>
-*__Minh Le__, An Nguyen\*, Huy Nguyen\*, Trang Nguyen\*, Trang Pham\*, Linh Van Ngo, Nhat Ho*<br/>
 
 
 
