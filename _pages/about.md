@@ -27,11 +27,6 @@ I'm actively seeking PhD positions in Computer Science for the upcoming academic
 
 ## Selected Preprints
 
-
-[Towards Rehearsal-Free Continual Relation Extraction: Capturing Within-Task Variance with Adaptive Prompting](https://arxiv.org/abs/2505.13944) <br/>
-Under review <br/>
-Bao-Ngoc Dao\*, Quang Nguyen\*, Luyen Ngo Dinh\*, __Minh Le\*__, Nam Le, Linh Ngo Van<br/>
-
 [Leveraging Hierarchical Taxonomies in Prompt-based Continual Learning](https://arxiv.org/abs/2410.04327) <br/>
 Under review <br/>
 *Quyen Tran, Hoang Phan\*, __Minh Le__\*, Tuan Truong, Dinh Phung, Linh Ngo, Thien Nguyen, Nhat Ho, Trung Le*<br/>
@@ -41,6 +36,10 @@ Under review <br/>
 [One-Prompt Strikes Back: Sparse Mixture of Experts for Prompt-based Continual Learning](https://arxiv.org/abs/2509.24483) <br/>
 Proceedings of the ICLR, 2026 <br/>
 *__Minh Le__, Bao-Ngoc Dao, Huy Nguyen, Quyen Tran, Anh Nguyen, Nhat Ho*<br/>
+
+[Towards Rehearsal-Free Continual Relation Extraction: Capturing Within-Task Variance with Adaptive Prompting](https://arxiv.org/abs/2505.13944) <br/>
+Neurocomputing, 2026 <br/>
+Bao-Ngoc Dao\*, Quang Nguyen\*, Luyen Ngo Dinh\*, __Minh Le\*__, Nam Le, Linh Ngo Van<br/>
 
 [Adaptive Prompting for Continual Relation Extraction: A Within-Task Variance Perspective](https://arxiv.org/abs/2412.08285) <br/>
 Proceedings of the AAAI Conference on Artificial Intelligence 39, 2025 <span style="color:red"> **(Oral)** </span> <br/>

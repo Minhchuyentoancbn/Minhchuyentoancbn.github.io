@@ -14,22 +14,15 @@ redirect_from:
 
 
 ## Preprints
-**[P.2]** [Towards Rehearsal-Free Continual Relation Extraction: Capturing Within-Task Variance with Adaptive Prompting](https://arxiv.org/abs/2505.13944). <br/>
-*Under review*. <br/>
-Bao-Ngoc Dao\*, Quang Nguyen\*, Luyen Ngo Dinh\*, <b>Minh Le\*</b>, Nam Le, Linh Ngo Van
-
 **[P.1]** [Leveraging Hierarchical Taxonomies in Prompt-based Continual Learning](https://arxiv.org/abs/2410.04327). <br/>
 *Under review*. <br/>
 Quyen Tran, Hoang Phan\*, <b>Minh Le\*</b>, Tuan Truong, Dinh Phung, Linh Ngo, Thien Nguyen, Nhat Ho, Trung Le
 
 
-
-
-<!-- **[P.2]** [Fuse MoE: Mixture-of-Experts Transformers for Fleximodal Fusion](https://arxiv.org/pdf/2402.03226.pdf). *Under review*. <br/>
-Xing Han, <b>Huy Nguyen\*</b>, Carl Harris\*, Nhat Ho, Suchi Saria
-
-**[P.1]** [CompeteSMoE - Effective Training of Sparse Mixture of Experts via Competition](https://arxiv.org/pdf/2402.02526.pdf). *Under review*. <br/>
-Quang Pham, Giang Do, <b>Huy Nguyen</b>, TrungTin Nguyen, Chenghao Liu, Mina Sartipi, Binh T. Nguyen, Savitha Ramasamy, Xiaoli Li, Steven Hoi, Nhat Ho -->
+## Journal Publications
+**[J.1]** [Towards Rehearsal-Free Continual Relation Extraction: Capturing Within-Task Variance with Adaptive Prompting](https://arxiv.org/abs/2505.13944). <br/>
+*Neurocomputing, 2026*. <br/>
+Bao-Ngoc Dao\*, Quang Nguyen\*, Luyen Ngo Dinh\*, <b>Minh Le\*</b>, Nam Le, Linh Ngo Van
 
 ## Conference Publications
 
