@@ -25,6 +25,12 @@ I'm actively seeking PhD positions in Computer Science for the upcoming academic
 
 <span style="color:red"> **(\*) denotes equal contribution.** </span> <br/>
 
+
+## Recent News
+
+- **[Jan 2026]** Two papers are accepted to ICLR 2026 and one paper is accepted to Neurocomputing.
+
+
 ## Selected Preprints
 
 [Leveraging Hierarchical Taxonomies in Prompt-based Continual Learning](https://arxiv.org/abs/2410.04327) <br/>
