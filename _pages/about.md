@@ -11,7 +11,7 @@ redirect_from:
 {% include base_path %}
 
    
-Welcome to my homepage! My full name is Duc-Minh Le, you can call me Minh 👋. I am currently an AI Engineer at Trivita AI. Previously, I was a research resident at [Qualcomm AI Research](https://www.qualcomm.com/research/artificial-intelligence) 🤖, where I had the privilege of being advised by Professor [Nhat Ho](https://nhatptnk8912.github.io/) 🏛️. I earned my Bachelor's degree in Computer Science from [Hanoi University of Science and Technology](https://hust.edu.vn/). 
+Welcome to my homepage! My full name is Duc-Minh Le, you can call me Minh 👋. I am currently a first year CS PhD at Georgia Tech, working with Professor [Celine Lin](https://eiclab.scs.gatech.edu/pages/team.html). Previously, I was a research resident at [Qualcomm AI Research](https://www.qualcomm.com/research/artificial-intelligence) 🤖, where I had the privilege of being advised by Professor [Nhat Ho](https://nhatptnk8912.github.io/) 🏛️. I earned my Bachelor's degree in Computer Science from [Hanoi University of Science and Technology](https://hust.edu.vn/). 
 
 
 Email: minh611002@gmail.com
@@ -20,14 +20,13 @@ Email: minh611002@gmail.com
 
 My research focuses on advancing Artificial Intelligence and Machine Learning toward systems that can learn and adapt continuously and efficiently. I am particularly interested in Parameter-Efficient Fine-Tuning, Mixture of Experts, and Continual Learning, and I am excited to explore related directions that enhance the scalability, robustness, and practical impact of modern AI models.
 
-I'm actively seeking PhD positions in Computer Science for the upcoming academic year and excited to collaborate on impactful research! 🚀
-
 
 <span style="color:red"> **(\*) denotes equal contribution.** </span> <br/>
 
 
 ## Recent News
 
+- **[Aug 2026]** I officially start my PhD at Georgia Tech.
 - **[Jan 2026]** Two papers are accepted to ICLR 2026 and one paper is accepted to Neurocomputing.
 
 
@@ -43,7 +42,7 @@ Under review <br/>
 Proceedings of the ICLR, 2026 <br/>
 *__Minh Le__, Bao-Ngoc Dao, Huy Nguyen, Quyen Tran, Anh Nguyen, Nhat Ho*<br/>
 
-[Towards Rehearsal-Free Continual Relation Extraction: Capturing Within-Task Variance with Adaptive Prompting](https://arxiv.org/abs/2505.13944) <br/>
+[WAVE++: Capturing Within-Task Variance for Continual Relation Extraction with Adaptive Prompting](https://arxiv.org/abs/2505.13944) <br/>
 Neurocomputing, 2026 <br/>
 Bao-Ngoc Dao\*, Quang Nguyen\*, Luyen Ngo Dinh\*, __Minh Le\*__, Nam Le, Linh Ngo Van<br/>
 
@@ -58,7 +57,7 @@ Advances in NeurIPS, 2024 <br/>
 
 ## Selected Publications on Efficient AI
 
-[On the Expressiveness of Visual Prompt Experts](https://arxiv.org/abs/2501.18936) <br/>
+[Revisit Visual Prompt Tuning: The Expressiveness of Prompt Experts](https://arxiv.org/abs/2501.18936) <br/>
 Proceedings of the ICLR, 2026 <br/>
 *__Minh Le\*__, Anh Nguyen\*, Huy Nguyen, Chau Nguyen, Anh Tran, Nhat Ho*<br/>
 

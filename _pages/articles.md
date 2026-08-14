@@ -20,7 +20,7 @@ Quyen Tran, Hoang Phan\*, <b>Minh Le\*</b>, Tuan Truong, Dinh Phung, Linh Ngo, T
 
 
 ## Journal Publications
-**[J.1]** [Towards Rehearsal-Free Continual Relation Extraction: Capturing Within-Task Variance with Adaptive Prompting](https://arxiv.org/abs/2505.13944). <br/>
+**[J.1]** [WAVE++: Capturing Within-Task Variance for Continual Relation Extraction with Adaptive Prompting](https://arxiv.org/abs/2505.13944). <br/>
 *Neurocomputing, 2026*. <br/>
 Bao-Ngoc Dao\*, Quang Nguyen\*, Luyen Ngo Dinh\*, <b>Minh Le\*</b>, Nam Le, Linh Ngo Van
 
@@ -30,7 +30,7 @@ Bao-Ngoc Dao\*, Quang Nguyen\*, Luyen Ngo Dinh\*, <b>Minh Le\*</b>, Nam Le, Linh
 *Proceedings of the ICLR, 2026*. <br/>
 <b>Minh Le</b>, Bao-Ngoc Dao, Huy Nguyen, Quyen Tran, Anh Nguyen, Nhat Ho
 
-**[C.6]** [On the Expressiveness of Visual Prompt Experts](https://arxiv.org/abs/2501.18936). <br/>
+**[C.6]** [Revisit Visual Prompt Tuning: The Expressiveness of Prompt Experts](https://arxiv.org/abs/2501.18936). <br/>
 *Proceedings of the ICLR, 2026*. <br/>
 <b>Minh Le\*</b>, Anh Nguyen\*, Huy Nguyen, Chau Nguyen, Anh Tran, Nhat Ho
 
